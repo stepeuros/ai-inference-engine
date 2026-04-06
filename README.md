@@ -1,6 +1,7 @@
 # AI Inference Engine
 
 A simple **matrix multiplication engine** in C, built step-by-step from writing code in VS Code to compiling with Clang and running it.  
+Overall, This project implements the core mathematical operation behind AI inference—matrix multiplication—using low-level C, with plans to optimize using assembly for performance.
 This README documents the **entire process** with screenshots.
 
 ---
