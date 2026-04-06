@@ -53,6 +53,8 @@ Result:
 19 22
 43 50
 
+<img width="444" height="79" alt="step5output" src="https://github.com/user-attachments/assets/0f602100-583d-4994-be61-232b855f8c20" />
+
 <img width="573" height="39" alt="step6git" src="https://github.com/user-attachments/assets/88c0e716-7324-4528-b41c-54a04707e519" />
 
 
